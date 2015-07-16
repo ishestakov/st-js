@@ -59,6 +59,10 @@
 							<mainClass>org.stjs.command.line.ProjectCommandLine</mainClass>
 							<name>st-js</name>
 						</program>
+						<program>
+							<mainClass>org.stjs.command.line.IdeaProjectCommandLine</mainClass>
+							<name>idea-st-js</name>
+						</program>
 					</programs>
 				</configuration>
 				<executions>
